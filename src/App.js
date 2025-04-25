@@ -48,6 +48,9 @@ function App() {
       }}
     >
       <h1>🎯 Click the Circle</h1>
+      <h2 style={{ marginTop: "-10px", fontWeight: "normal", fontSize: "1.2rem" }}>
+        Jason Torres | CIT389
+      </h2>
       <p>Score: {score} | Misses: {misses}</p>
 
       <div
